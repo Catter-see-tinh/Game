@@ -28,7 +28,6 @@ if not installer_file():
 
 import installer
 installer.run()
-
 import json
 import math
 import compileall
